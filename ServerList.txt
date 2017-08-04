@@ -1,0 +1,5 @@
+# Isogramd Servers Across the World
+# Each will be polled by the app upon first start. 
+# Ping will be tested three times for each server location
+# before an entry is created in your phone's storage with the top three servers.
+localhost:5000=US Central
